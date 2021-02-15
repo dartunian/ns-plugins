@@ -1,0 +1,7 @@
+{
+  "name": "Respite",
+  "description": "A WIP NutScript Schema. This schema has been being worked on for a long time, that being the case it has a lot of older and deprecated plugins. The file structure will also be a bit disorganized...",
+  "repo_url": "https://github.com/Chancerawr/respite",
+  "author": "Chancerawr",
+  "author_url": "https://github.com/Chancerawr"
+}

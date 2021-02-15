@@ -1,0 +1,7 @@
+{
+  "name": "CityRP",
+  "description": "This is City-Life based schema for Nutscript 1.1. This schema could be your server's good mate or it could be some extremely useful resource for your schema development for Nutscript 1.1 Me, Black Tea Za rebel1324 proudly presents this schema for you a...",
+  "repo_url": "https://github.com/rebel1324/CityRP",
+  "author": "rebel1324",
+  "author_url": "https://github.com/rebel1324"
+}

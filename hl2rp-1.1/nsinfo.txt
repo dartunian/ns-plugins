@@ -1,0 +1,7 @@
+{
+  "name": "HL2RP",
+  "description": "Chessnut's old ass HL2RP schema.",
+  "repo_url": "https://github.com/Chessnut/hl2rp",
+  "author": "Chessnut",
+  "author_url": "https://github.com/Chessnut"
+}
